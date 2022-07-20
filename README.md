@@ -2,7 +2,7 @@
 
 [GitHub](https://github.com/)
 
-> GitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名GitHub。
+> GitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为版本库格式进行托管，故名GitHub。
 
 [JSON在线解析及格式化验证](https://www.json.cn/)
 
